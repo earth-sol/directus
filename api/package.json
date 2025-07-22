@@ -221,7 +221,7 @@
 		"@types/ws": "8.5.14",
 		"@vitest/coverage-v8": "2.1.9",
 		"copyfiles": "2.4.1",
-		"form-data": "4.0.2",
+		"form-data": "4.0.4",
 		"get-port": "7.1.0",
 		"knex-mock-client": "3.0.2",
 		"typescript": "5.8.2",
